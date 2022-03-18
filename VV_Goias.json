@@ -19,8 +19,8 @@
   },
   {
         "key": "ANP",
-        "latitude": 14.2417,
-        "longitude": -170.7197,
+        "latitude": -16.30218,
+        "longitude": -48.94850,
         "name": "ANAPOLIS"
   },
   {
@@ -97,8 +97,8 @@
   },
   {
         "key": "CER",
-        "latitude": -15.31615,
-        "longitude": -49.58203,
+        "latitude": -15.30916,
+        "longitude": -49.62106,
         "name": "CERES"
   },
   {
@@ -138,7 +138,7 @@
         "name": "GOIANESIA"
   },
   {
-        "key": "GON",
+        "key": "GOR",
         "latitude": -16.49614,
         "longitude": -49.42456,
         "name": "GOIANIRA"
@@ -313,7 +313,7 @@
   },
   {
         "key": "POS",
-        "latitude": -17.09226,
+        "latitude": -14.09225,
         "longitude": -46.36386,
         "name": "POSSE"
   },
@@ -406,5 +406,35 @@
         "latitude": -16.06767,
         "longitude": -47.98354,
         "name": "VALPARAISO"
-  }
+  },
+  {
+		"key": "HID",
+		"latitude": -16.95824,
+		"longitude": -49.22222,
+		"name": "HIDROLANDIA"
+  },
+  {
+        "key": "NGA",
+        "latitude": -16.07703,
+        "longitude": -48.05718,
+        "name": "NOVO GAMA"
+  },
+  {
+        "key": "CRX",
+        "latitude": -14.53290,
+        "longitude": -49.96003,
+        "name": "CRIXAS"
+  },
+  {
+        "key": "JUS",
+        "latitude": -15.87201,
+        "longitude": -50.86833,
+        "name": "JUSSARA"
+  },
+  {
+        "key": "ANS",
+        "latitude": -16.34207,
+        "longitude": -48.95414,
+        "name": "JUSSARA"
+  }    
 ]
